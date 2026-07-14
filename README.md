@@ -39,7 +39,9 @@ for the published render.
 ## Provenance
 
 This is the exact code and dataset lineage behind **Gas Wars 6529 #461**
-(February 19, 2026). That GIF was rendered with the settings checked into
+(February 19, 2026), minted for the
+[6529 Memes collection](https://6529.io/). That GIF was rendered with the
+settings checked into
 `main()` at `dpi=120` (960×960); the defaults here render the same
 560-frame animation at `dpi=240` (1920×1920). Note that renders are not
 byte-reproducible: the glitch effect uses an unseeded random jitter, so a
