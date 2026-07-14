@@ -8,7 +8,7 @@ distance from the center is the CO₂ concentration. The seasonal
 "breathing" of the planet shows up as the wobble in each ring; the relentless
 outward march is us.
 
-![Keeling Spiral animation](assets/keeling_radial_example.gif)
+![Gas Wars 6529 #461](assets/gas-wars-6529-461.gif)
 
 ## Running it
 
@@ -46,7 +46,9 @@ settings checked into
 560-frame animation at `dpi=240` (1920×1920). Note that renders are not
 byte-reproducible: the glitch effect uses an unseeded random jitter, so a
 few frames differ slightly on every run, and GIF palette quantization can
-vary between Pillow versions. The original artifact is the file itself.
+vary between Pillow versions. The original artifact is the file itself — a
+byte-identical copy is included here as `assets/gas-wars-6529-461.gif`, the
+GIF at the top of this page.
 
 ## Data attribution
 
