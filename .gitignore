@@ -1,0 +1,14 @@
+*.gif
+*.mp4
+*.png
+*.svg
+*.log
+*.mbtree
+__pycache__/
+.DS_Store
+*.pyc
+.venv/
+.claude/
+
+# keep bundled assets despite the media patterns above
+!assets/**
