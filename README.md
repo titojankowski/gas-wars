@@ -1,4 +1,4 @@
-# Keeling Spiral
+# Gas Wars
 
 An animated radial visualization of atmospheric CO₂ measured at Mauna Loa
 Observatory — the Keeling Curve — from 1958 to today.
