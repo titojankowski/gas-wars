@@ -69,5 +69,7 @@ with the font, and it may not be sold or altered. See
 
 ## License
 
-The code is MIT licensed (see [LICENSE](LICENSE)). The bundled font and data
-are covered by their own terms above.
+The code is dedicated to the public domain under
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) (see
+[LICENSE](LICENSE)) — use it however you like, no attribution required.
+The bundled font and data are covered by their own terms above.
