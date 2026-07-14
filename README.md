@@ -36,6 +36,16 @@ frame rate, resolution, the cyan/magenta pulse behavior, tail length, easing,
 and the end-of-clip pause. The values checked in are the exact settings used
 for the published render.
 
+## Provenance
+
+This is the exact code and dataset lineage behind **Gas Wars 6529 #461**
+(February 19, 2026). That GIF was rendered with the settings checked into
+`main()` at `dpi=120` (960×960); the defaults here render the same
+560-frame animation at `dpi=240` (1920×1920). Note that renders are not
+byte-reproducible: the glitch effect uses an unseeded random jitter, so a
+few frames differ slightly on every run, and GIF palette quantization can
+vary between Pillow versions. The original artifact is the file itself.
+
 ## Data attribution
 
 - **Daily CO₂ data:** Scripps CO₂ Program, Scripps Institution of
